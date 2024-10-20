@@ -31,4 +31,14 @@ How to Set Up:
 3.Run the Application:
               java CronParser "*/15 0 1,15 * 1-5 /usr/bin/find"
 
+Test Images:
+
+
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/aa2e3bab-182b-4feb-a624-d7652f1b1f4f">
+
+
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/e25942ce-fe67-4924-8539-947968df81ba">
+
+
+
 
